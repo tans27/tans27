@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World, i'm tans 👋
 
 <!--
 **tans27/tans27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
