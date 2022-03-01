@@ -9,3 +9,4 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I can rap a lot :D 
 
+[![tans's GitHub stats](https://github-readme-stats.vercel.app/api?username=tans27)](https://github.com/tans27/github-readme-stats)
