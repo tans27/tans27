@@ -8,5 +8,6 @@
 - 📫 How to reach me: [Facebook - @trunganh27](https://www.facebook.com/trunganh27/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I can rap a lot :D 
+- 📖 I've just completed Js course in Codecademy - [Take a look](https://www.codecademy.com/profiles/tans27/certificates/705dcb15de0da4dd9d9fc4f3274b430e)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tans27&layout=compact)](https://github.com/tans27/github-readme-stats)
