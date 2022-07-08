@@ -1,6 +1,7 @@
 ### Hello World, i'm tans 👋
 
-- 🔭 I’m currently working on Diligo Holdings
+- 📅 I used to work for Diligo Holdings Jsc
+- 🔭 I’m currently looking for a new job
 - 🌱 I’m currently learning Front-end dev
 - 👯 I’m looking to collaborate on Github
 - 🤔 I’m looking for help with Js and Library for Js
