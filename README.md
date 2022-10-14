@@ -14,7 +14,7 @@ I'm an **Undergrad Student🎓 [@HUMG](https://humg.edu.vn/)** pursuing CS. I'm 
 
 ## ⚡️ A Few Quick Facts
 
-- 📅 I used to work for Diligo Holdings Jsc
+- 📅 I used to work for Diligo Holdings Jsc, VTC NETVIET
 - 🔭 I’m currently looking for a new job
 - 🌱 I’m currently learning Front-end dev
 - 👯 I’m looking to collaborate on Github
