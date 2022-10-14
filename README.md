@@ -62,8 +62,8 @@ pic on right
 
  
 views
-![Profile Views](https://komarev.com/ghpvc/?username=Defcon27)
-[![HitCount](http://hits.dwyl.com/Defcon27/.svg)](http://hits.dwyl.com/Defcon27)
+![Profile Views](https://komarev.com/ghpvc/?username=tans27)
+[![HitCount](http://hits.dwyl.com/tans27/.svg)](http://hits.dwyl.com/tans27)
 
 
 social modded badge
