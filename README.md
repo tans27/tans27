@@ -14,8 +14,8 @@ I'm an **Undergrad Student🎓 [@HUMG](https://humg.edu.vn/)** pursuing CS. I'm 
 
 ## ⚡️ A Few Quick Facts
 
+- 🔭 I’m currently working for Misa Jsc
 - 📅 I used to work for Diligo Holdings Jsc, VTC NETVIET
-- 🔭 I’m currently looking for a new job
 - 🌱 I’m currently learning Front-end dev
 - 👯 I’m looking to collaborate on Github
 <img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
