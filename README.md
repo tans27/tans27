@@ -1,4 +1,4 @@
- <h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="auto">Hello!, I am <a href="https://github.com/Defcon27">tans</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
+ <h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="auto">Hello!, I am <a href="https://github.com/Defcon27">tans</a> <img height="auto" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 </h1>
 
 ### 📬 Find me at
@@ -16,7 +16,7 @@ I'm an **Undergrad Student🎓 [@HUMG](https://humg.edu.vn/)** pursuing CS. I'm 
 
 - 🔭 I’m currently working for Misa Jsc
 - 📅 I used to work for Diligo Holdings Jsc, VTC NETVIET
-- 🌱 I’m currently learning Front-end dev
+- 🌱 I’m currently learning to be a fullstack dev,
 - 👯 I’m looking to collaborate on Github
 <img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
 
