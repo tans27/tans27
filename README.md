@@ -1,4 +1,4 @@
- <h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="auto">Hello!, I am <a href="https://github.com/tans27">tans</a> <img height="auto" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
+ <h1> <img src="https://httpsraw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="200px" height="auto">Hello!, I am <a href="https://github.com/tans27">tans</a> <img height="auto" src="://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 </h1>
 
 ### 📬 Find me at
@@ -54,8 +54,9 @@ pic on right
 
  
 views
-![Profile Views](https://komarev.com/ghpvc/?username=tans27)
-[![HitCount](http://hits.dwyl.com/tans27/.svg)](http://hits.dwyl.com/tans27)
+---
+[![](https://visitcount.itsvg.in/api?id=tans27&icon=0&color=9)](https://visitcount.itsvg.in)
+
 
 
 social modded badge
@@ -74,3 +75,10 @@ language badges:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
  
 -->
+
+
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+
