@@ -27,7 +27,9 @@ I'm an **Undergrad Student🎓 [@HUMG](https://humg.edu.vn/)** pursuing CS. I'm 
 - 💬 Ask me about Python or preprocessing data
 - 📫 How to reach me: [Facebook - @trunganh27](https://www.facebook.com/trunganh27/)
 - 😄 Pronouns: He/His
+<!---
 - ⚡ Fun fact: I can rap a lot :D 
+--->
 - 📖 I've just completed Js course in Codecademy - [Take a look](https://www.codecademy.com/profiles/tans27/certificates/705dcb15de0da4dd9d9fc4f3274b430e)
 
 
@@ -46,8 +48,6 @@ I'm an **Undergrad Student🎓 [@HUMG](https://humg.edu.vn/)** pursuing CS. I'm 
 ![Profile Views](https://komarev.com/ghpvc/?username=tans27)
 
 
-<!--
-**Defcon27/Defcon27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 pic on right
 <img height="270" src="sss.svg" align=right>
